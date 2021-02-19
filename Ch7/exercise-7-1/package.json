@@ -1,0 +1,33 @@
+{
+  "name": "myapp-api",
+  "version": "0.0.01005",
+  "commit": "my commit",
+  "description": "my description",
+  "dependencies": {
+    "async": "2.6.1",
+    "crypto-js": "^3.1.9-1",
+    "engine.io": "^3.2.0",
+    "express": "~4.16.3",
+    "moment": "^2.22.2",
+    "mongoose": "^5.8.3",
+    "npm": "^6.13.4",
+    "rooms.db": "^0.1.1-78",
+    "roomsjs": "^0.1.5",
+    "winston": "^3.1.0"
+  },
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-notify": "latest",
+    "grunt-open": "^0.2.4",
+    "grunt-replace": "latest",
+    "grunt-shell": "^3.0.1"
+  },
+  "engine": "node >= 8.10.0"
+}

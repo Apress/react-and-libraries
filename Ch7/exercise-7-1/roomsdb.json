@@ -1,0 +1,10 @@
+{
+  "name": "db-config",
+  "version": "1.0",
+  "environment": {
+    "host":"SOME_IP_ADDRESS:27017",
+    "user":"SOME_USER",
+    "password":"YOUR_PASSWORD",
+    "dsn": ""
+  }
+}
