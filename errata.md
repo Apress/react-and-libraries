@@ -1,8 +1,20 @@
-# Errata for *Book Title*
+# Errata for *React and Libraries*
 
-On **page xx** [Summary of error]:
+On **page 61** [code error]:
  
-Details of error here. Highlight key pieces in **bold**.
+The code snippet at the bottom of Page 61 should read as follows:
+
+export default function ScrollToTop() {
+  const { pathname } = useLocation()
+   useEffect(
+    () => {
+      try {
+        window.scrollTo(0, 0)
+    },
+    [pathname]
+  )
+  return null
+}
 
 ***
 
