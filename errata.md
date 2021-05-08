@@ -12,6 +12,11 @@ https://github.com/Apress/react-and-libraries/exercise-4-2
 should be;
 https://github.com/Apress/react-and-libraries/tree/main/Ch4/exercise-4-2
 
+On **page 24** [text error]:
+
+This sentence was an editorial left over and needs to be removed all together; 
+
+"The list was React libraries. The folder structure is park of the what I will be covering but it’s not a library. We could add this sentence to explain the readers."
 
 On **page 61** [code error]:
  
