@@ -82,6 +82,21 @@ On **page 322** [text error]:
 Should be;
 'As we have seen'
 
+
+On **page 24** [text error]:
+
+'The folder structure is **park** of...'
+
+should be
+
+'The folder structure is **part** of...'
+
+On **page 24** []:
+
+q: Why wrote **The list was React libraries.** if it was a general libraries not specifically for React
+
+q: What is **We could add this sentence to explain the readers** for ? 
+
 ***
 
 On **page xx** [Summary of error]:
