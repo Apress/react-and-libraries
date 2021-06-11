@@ -24,5 +24,7 @@ Additionally, [hire the author as your tutor for d3, react, javascript, typescri
 ## Where to go from here?
 
 - [Take the React Interactive Course](https://www.udemy.com/course/getting-started-react17-with-must-have-libraries/?referralCode=3E6A9B9D8EBB48A913A9)
+- [Take d3 + React Course](https://www.udemy.com/course/integrating-d3js-with-react/?referralCode=4C1ADE35AB8633B90205)
+- [Buy Integrating D3.js with React Apress Book](https://www.apress.com/gp/book/9781484270516)
 - Check the author's latest articles on [Medium](https://medium.com/react-courses)
 - [Visit the author's site EliElrom.com](https://elielrom.com)
